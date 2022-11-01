@@ -4,7 +4,7 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailspin.SpaceGame.Web", "Tailspin.SpaceGame.Web\Tailspin.SpaceGame.Web.csproj", "{A0C4E31E-AC75-4F39-9F59-0AA19D9B8F46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailspin.SpaceGame.LeaderboardFunction", "Tailspin.SpaceGame.LeaderboardFunction\Tailspin.SpaceGame.LeaderboardFunction.csproj", "{3D748CF8-88FB-478F-ADBA-5FF012B5A807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailspin.SpaceGame.LeaderboardFunction", "Tailspin.SpaceGame.LeaderboardFunction\Tailspin.SpaceGame.LeaderboardFunction.csproj", "{3D748CF8-88FB-478F-ADBA-5FF012B5A807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
